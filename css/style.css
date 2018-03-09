@@ -1,0 +1,56 @@
+h1 {
+    color: #ed0b0b;
+    text-align: center;
+
+}
+#hello-tag {
+    color: green;
+}
+.text-blue {
+    color: blue;
+}
+h2 {
+    font-family: 'Indie Flower', cursive;
+    font-size: 69px;
+
+}
+
+.h-500px {
+    height: 500px;
+}
+.bg-green {
+    background: green;
+}
+
+.background {
+    background-image: url(https://images7.alphacoders.com/411/thumb-1920-411820.jpg);
+    background-size: cover;
+    background-attachment: fixed /*ghim lai yen 1 cho*/
+}
+.h-50px {
+  height: 50px;
+}
+.w-200px {
+    width: 200px;
+}
+.d-inline-block {
+    display: inline-block;
+}
+
+.float-left {
+    float:left;
+}
+.float-right {
+    float: right;
+}
+
+.border-red {
+  border: 1px solid red;
+}
+
+#box-model {
+  padding: 5px 10px 15px 20px;
+}
+#margin-element {
+  margin: 20px 50px 50px 100px;
+}

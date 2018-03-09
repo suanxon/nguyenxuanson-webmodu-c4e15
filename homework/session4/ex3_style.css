@@ -1,0 +1,16 @@
+.box-green {
+  border: 10px solid none;
+  width: 500px;
+  height: 500px;
+  background-color: green;
+  padding: 100px;
+  box-sizing: border-box;
+  float: right;
+}
+
+.box-green div {
+  width: 200px;
+  height: 200px;
+  background-color: red;
+  padding: 30% 5% 5% 30%;
+}

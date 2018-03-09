@@ -1,0 +1,20 @@
+.container {
+  width: 70%;
+  border: 2px solid white;
+  padding: 0 20% 0 20%;
+}
+.box-sizing {
+  box-sizing: border-box;
+  width: 50%;
+  float: left;
+}
+.red {
+  color: red;
+}
+.size-65 {
+    font-size: 65%;
+
+}
+.size-40 {
+    font-size: 40%;
+}

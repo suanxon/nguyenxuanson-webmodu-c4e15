@@ -25,7 +25,7 @@
             <td>{{ service.name }}</td>
             <td>{{ service.yob }}</td>
 
-            <td>{{"Nữ" if service.gender == 0 else "Nam" }}  <!-- dùng khi có 2 biến-->
+            <td>{{"Nữ" if service.gender == 1 else "Nam" }}  <!-- dùng khi có 2 biến-->
             </td>
             <td>{{ service.phone }}</td>
             <td>{% if service.status == True %}   <!-- dùng trong mọi trường hợp -->

@@ -1,0 +1,32 @@
+.nav{
+    border:1px solid #ccc;
+    border-width:1px 0;
+    list-style:none;
+    margin:0;
+    padding:;
+    text-align:center;
+}
+.nav li{
+    display:inline;
+}
+.nav a{
+    display:inline-block;
+    padding:10px;
+    color: black;
+    text-decoration: none;
+    width: 200px;
+
+}
+.center {
+  text-align: center;
+}
+
+.upper {
+    text-transform: uppercase;
+}
+.monoton {
+  font-family: 'Monoton', cursive;
+}
+.height_1px {
+  height: 1px;
+}
